@@ -33,4 +33,9 @@ Aprendiz do Akadion Solutions, Desenvolvedor Java.
   <a href="https://www.linkedin.com/in/dalton-bulka-contrera-filho-6840051ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
+<div align="center">
+  
+![OehO](https://github.com/user-attachments/assets/017d9237-34c7-40f4-beed-a64a379a76ba)
 

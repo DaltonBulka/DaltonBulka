@@ -1,10 +1,11 @@
 <p align="center">  =-=-=-=-=-=-=-= Seja bem-vindo ao meu Github! =-=-=-=-=-=-=-= </p>
 
 
-## Olá, me chamo Dalton Bulka ✔
+<p align="center"> Olá, me chamo Dalton Bulka ✔
 
-- 🔭 Hoje eu trabalho com Back-end.
-- 🌱 Eu estou estudando Java.
+<p align="center"> 🔭 Hoje eu trabalho com Back-end.
+<p align="center"> 🌱 Eu estou estudando Java.
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaltonBulka&repo=github-readme-stats&theme=dark)](https://github.com/DaltonBulka/github-readme-stats)
 ![Dalton Bulka GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonBulka&show_icons=true&theme=dark)
@@ -18,7 +19,7 @@ Aprendiz do Akadion Solutions, Desenvolvedor Java.
 </div>-->
 
 <div align="center">
-  <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonBulka&count_private=true&theme=radical" alt="DaltonBulka" /   
+  <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonBulka&count_private=true&theme=dark" alt="DaltonBulka" /   
 </div>
 
 ##

@@ -6,8 +6,12 @@
 <p align="center"> 🔭 Hoje eu trabalho com Back-end.
 <p align="center"> 🌱 Eu estou estudando Java.
 
+<div align="center"> 
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaltonBulka&repo=github-readme-stats&theme=dark)](https://github.com/DaltonBulka/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaltonBulka&repo=github-readme-stats&theme=dark)](https://github.com/DaltonBulka/github-readme-stats)
+<div align="center">
+  
 ![Dalton Bulka GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonBulka&show_icons=true&theme=dark)
 
 <div align="center">
